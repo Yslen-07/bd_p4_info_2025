@@ -1,3 +1,3 @@
 # exercícios
 
-página reservada para exercícios
+Página reservada para exercícios
